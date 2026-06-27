@@ -33,6 +33,12 @@ I am an aspiring Software Engineer and tech enthusiast with a strong inclination
 
 ---
 
+## 📞 Contacts
+
+👉 **[Telegram Bot for feedback](https://t.me/jarik_direct_bot)**
+
+---
+
 ## 🔗 Full repository
 Full repository:
 👉 **[Browse Full Repository Directory](https://github.com/goldchell-bra7/goldchell-bra7)**
