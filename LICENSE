@@ -1,0 +1,34 @@
+# Custom Software License & Terms of Use
+
+Copyright (c) 2026 Yaroslav "Goldchell". All rights reserved.
+
+This license governs the use of the source code, documentation, and related assets (collectively, the "Software") contained within this public repository.
+
+### Scope & Precedence Notice
+This is the global license for this specific profile repository. If any other repository under this account (`github.com/goldchell-bra7`) contains its own explicit `LICENSE` file (such as MIT, GPL, or Apache), the repository-specific license takes full precedence and completely overrides these terms for that particular project.
+
+---
+
+### 1. Permitted Uses (What You Can Do)
+Subject to the terms of this license, you are granted a non-exclusive, worldwide, royalty-free permission to:
+*   **Review & Learn:** View, fork, and analyze the Software for educational, personal, and academic purposes.
+*   **Personal Application:** Utilize the code snippets, architectural ideas, and configurations for personal, non-commercial workflows.
+*   **Redistribution:** Share the Software with others, provided that it is done by referencing or linking back directly to the original repository (`github.com/goldchell-bra7`).
+*   **Exception Notice:** This permission applies strictly to the source code and documentation. Personal media files (such as profile photographs, custom avatars, and personal identity data) are excluded from this permission and may not be reused.
+
+---
+
+### 2. Restrictions (What You Cannot Do)
+You strictly **do not** have permission to:
+*   **Plagiarism & Rebranding:** Redistribute, publish, or sublicense the Software under your own name or as your own product without prior written consent and a formal agreement signed by the original author (Yaroslav "Goldchell").
+*   **Commercial Exploitation:** Sell, rent, lease, or monetize the Software, either in its entirety, as individual modules, or as part of a commercial information package.
+*   **Malicious Use:** Utilize any part of this Software to design, develop, test, or distribute malicious software (malware), exploits, spam tools, or any software intended to violate security boundaries or laws.
+*   **Endorsement:** Use the name, pseudonym, or branding of Yaroslav "Goldchell" or *bra7* to promote or endorse any modified version (fork) of this Software without explicit written approval.
+
+---
+
+### 3. Disclaimer of Liability (Warranty & Indemnity)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+
+IN NO EVENT SHALL THE AUTHOR (YAROSLAV "GOLDCHELL") BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE, OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. BY USING THIS SOFTWARE, YOU AGREE THAT THE AUTHOR ACCEPTS ZERO LIABILITY FOR ANY ACCOUNT BANS, SERVER MALFUNCTIONS, DATA LOSS, OR SECURITY BREACHES CAUSED BY ITS APPLICATION.
+
