@@ -23,13 +23,14 @@ I am an aspiring Software Engineer and tech enthusiast with a strong inclination
 ## 🚀 Current Projects
 *   **Glory RP** — System architecture and development for a multiplayer environment.
 *   **[script-helper-for-forum](https://github.com/goldchell-bra7/script-helper-for-forum)** — A custom forum automation and workflow optimization solution (deployed and maintained for over a year).
+*   **[gos1mple](https://github.com/goldchell-bra7/gos1mple)** — Lightweight Go library for simplifying console applications.
 
 ---
 
 ## 📈 Long-Term Career Aspirations
 *   **DevOps Engineering** (Infrastructure & Automation)
 *   **Software & System Architecture**
-*   **Entrepreneurship:** CEO at *bra7*
+*   **Entrepreneurship:** Founder at *bra7*
 
 ---
 
