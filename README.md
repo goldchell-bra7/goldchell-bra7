@@ -6,9 +6,9 @@ I am an aspiring Software Engineer and tech enthusiast with a strong inclination
 ---
 
 ## 🎓 Academic Background
-*   **Prospective B.Sc. in Software Engineering** 
+*   **B.Sc. Student in Software Engineering** 
     *   *NURE (Kharkiv National University of Radio Electronics)*
-    *   **Timeline:** Commencing September 2026
+    *   **Timeline:** 2026 – Present (Commencing September 2026)
     *   **Focus Areas:** Software Design, Logic & Algorithmic Thinking, and Computer Systems Architecture.
 
 ---
