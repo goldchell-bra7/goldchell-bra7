@@ -16,7 +16,7 @@ I am an aspiring Software Engineer and tech enthusiast with a strong inclination
 ## 🛠️ Technical Stack & Skills
 *   **Programming & Scripting Languages:** Go (Golang), Python, JavaScript, Bash on basic level
 *   **Version Control & Automation:** Git, Linux Shell Automation
-*   **Operating Systems & Environments:** Kubuntu (KDE Plasma) & Windows 11
+*   **Operating Systems & Environments:** Debian 13 Trixie (with Cinnamon DE)
 
 ---
 
